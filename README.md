@@ -1,1 +1,1 @@
-# Huffman
+Ces deux progammes, en OCaml et en C, sont des implémentations de l'algorithme de Huffman, permettant de compresser et décompresser n'importe quel fichier à partir de son écriture binaire. Pour compresser (respectivement décompresser) un fichier, il faut le mettre dans le même dossier que le programme et éxecuter le fichier compilé en ajoutant en argument "compresser" (respectivement "décompresser") suivi du nom du fichier.
